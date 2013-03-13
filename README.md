@@ -19,4 +19,4 @@ or with default values 8081 and 0.0.0.0:
 
 Install with the following:
    
-   `python setup.py install`
+   `sudo python setup.py install`
