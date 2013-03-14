@@ -1,5 +1,5 @@
 import BaseHTTPServer
-import simplejson as json
+import json
 import time
 import sys
 import os

@@ -2,7 +2,7 @@ import unittest
 from storedserver.storagejsonhandler import MultiThreadedHTTPServer,StorageJSONHandler
 import threading
 import urllib2
-import simplejson as json
+import json
 from storedserver.basestorage import BaseStorage
 from multiprocessing import Process
 import time
